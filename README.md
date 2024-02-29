@@ -1,6 +1,6 @@
 ---
 ### About Me
-Hello there! I'm Abuzar Tirmizi, a passionate student with a knack for learning and exploring new technologies. I completed my O-Level from The City School (PAF) and I'm currently pursuing my A-Level education privately. Recently, I delved into the world of programming with Python through Bano Qabil 2.0, and I'm eager to deepen my knowledge in this field.
+- Hello there! I'm Abuzar Tirmizi, a passionate student with a knack for learning and exploring new technologies. I completed my O-Level from The City School (PAF) and I'm currently pursuing my A-Level education privately. Recently, I delved into the world of programming with Python through Bano Qabil 2.0, and I'm eager to deepen my knowledge in this field.
 ---
 ### Skills
 - Programming: Python
