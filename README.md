@@ -18,7 +18,7 @@ Embark on an adventure with "Ghost-Man," an engaging Python game utilizing the P
 - Deepening my understanding of Python by exploring advanced topics such as data analysis, machine learning, and web development frameworks like Django and Flask.
 ---
 ### Get in Touch
-I'm always open to collaboration and learning opportunities. Feel free to reach out to me via [email](mailto:s.abuzartirmizi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abuzar-tirmizi-7868012a4/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/abuzar-tirmizi-7868012a4/)
 
 
 ---
